@@ -3,10 +3,8 @@ pandas
 plotly-express
 matplotlib
 seaborn
-joblib #
 numpy
 scikit-learn
-pickle
-altair #
+joblib
 streamlit-option-menu
 googletrans==4.0.0-rc1
